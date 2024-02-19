@@ -1,4 +1,8 @@
-# Project description: Decoder ring
+# [Decoder Ring](https://melissametz.github.io/Decoder-Ring/) 
+
+*This site was built using GitHub Pages.*
+
+## Instructions 
 
 You're planning a surprise birthday party for a friend who loves escape rooms and puzzles. What better way to practice your new coding skills than to build an application 
 
@@ -6,7 +10,7 @@ that will help you encode and decode all kinds of fun messages?
 
 For at least part of this project, try following a TDD process. Once you get the hang of it, you'll find that writing tests can be a great way to focus your workflow.
 
-## Learning objectives
+## Learning Objectives
 
 This project is designed to test your ability to build complex algorithms. It will also test your ability to write unit tests with Mocha and Chai to test your algorithms. 
 You will not need to make any edits to HTML or CSS for this project. Before taking on this project, you should be comfortable with the learning objectives listed below:
@@ -15,7 +19,7 @@ You will not need to make any edits to HTML or CSS for this project. Before taki
 
 * Using different `expect()` methods to test your code
 
-## Project steps to complete
+## Project Steps to Complete
 
 To complete this project, you must do the following:
 
@@ -23,7 +27,7 @@ To complete this project, you must do the following:
 
 * Write code that passes all of the requirements outlined below, and submit your GitHub repo link in the next lesson.
 
-## Requirements to pass
+## Requirements to Pass
 
 For your project to pass, all of the following statements must be true. These criteria are reflected in the rubric in the following lesson.
 
